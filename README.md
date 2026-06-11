@@ -143,7 +143,7 @@ Some key outcomes from the analysis include:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Customer_behavior_analysis.git
+git clone https://github.com/your-username/Customer_Shopping_Behavior_Analysis.git
 ```
 
 ### 2. Install Required Libraries
